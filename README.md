@@ -1,5 +1,5 @@
 # Introduction
-This is the source code for the course ESS205 project. you can download all the sourse codes are included in ` Releases/ Code.zip ` and LaTex sourse files are included in  ` Releases/ ESS205project.zip ` .
+This is the source code for the course ESS205 project. The sourse codes are included in ` Releases/ Code.zip ` and the LaTex sourse files are included in  ` Releases/ ESS205project.zip ` .
  
 # Code
 All code files are included in `/Code` .
