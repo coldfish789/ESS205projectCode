@@ -2,7 +2,7 @@
 This is the source code for the course ESS205 project 
 # Code
 All code files are included in `/Code` .
-- [Euler_Heun_UniformMagnetic.p](Code/Euler_Heun_UniformMagnetic.p)
+- [Euler_Heun_UniformMagnetic.py](Code/Euler_Heun_UniformMagnetic.py)
   
   This is the code for calculating the motion of charged particles in a uniform magnetic field using the Euler method and Heun method.
 
