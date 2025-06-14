@@ -19,4 +19,4 @@ All code files are included in `/Code` .
   This code is using for ploting the trajectory and projecting the trajectory of particles.
   
 # Report
-[Report.zip](Report.zip) is the sourse code of our report.
+`Report` is the sourse file of our report.
