@@ -1,5 +1,5 @@
 # Introduction
-This is the source code for the course ESS205 project 
+This is the source code for the course ESS205 project. you can download all the sourse codes and the LaTex sourse files in **Releases**. 
 # Code
 All code files are included in `/Code` .
 - [Euler_Heun_UniformMagnetic.py](Code/Euler_Heun_UniformMagnetic.py)
@@ -19,4 +19,4 @@ All code files are included in `/Code` .
   This code is using for ploting the trajectory and projecting the trajectory of particles.
   
 # Report
-`Report` is the sourse file of our report.
+`/Report` is the sourse file of our report.
